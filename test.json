@@ -1,7 +1,7 @@
 {
 	"name": "sothatwemaybefree.com",
 	"description": "Legit grenades from sothatwemaybefree.com", 
-	"update_timestamp": 2, 
+	"update_timestamp": 1000, 
 	"url": "https://raw.githubusercontent.com/sapphyrus/helper/master/locations/sothatwemaybefree.json",
 	"locations": {
 		"de_mirage": [
